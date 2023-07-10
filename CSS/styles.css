@@ -82,11 +82,18 @@ html {
         margin: 1rem auto;
         border-radius: 1rem;
     }
-  .img {
+  .featured-image {
        max-width: 992px;
         height: auto;
         margin: 1rem auto;
         border-radius: 1rem;
       
   }
+  .img-bold {
+    max-width: 992px;
+     height: auto;
+     margin: 1rem auto;
+     border-radius: 1rem;
+   
+}
 }   
